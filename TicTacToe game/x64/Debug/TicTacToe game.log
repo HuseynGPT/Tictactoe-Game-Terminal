@@ -1,0 +1,4 @@
+﻿  ticTacToe.cpp
+C:\Users\Administrator\Desktop\ticTacToe.cpp(11,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\Desktop\ticTacToe.cpp(11,20): warning C4309: 'initializing': truncation of constant value
+  TicTacToe game.vcxproj -> C:\Users\Administrator\source\repos\TicTacToe game\x64\Debug\TicTacToe game.exe
